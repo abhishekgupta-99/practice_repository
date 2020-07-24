@@ -1,6 +1,10 @@
 # Practice_repository
 
-## About 
+## Problem Satement
+
+## About (__ App/Platform)
+
+## Implementation
 
 ## Build Instructions
 
