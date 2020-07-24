@@ -20,7 +20,7 @@
 *Team 16* <br/>
 **Selecting PS**<br/>
 As Kanye West said:
->We're living in the future
+>We're living in the future<br/>
 >the present is our past.<br/>
 
 ![Team Logo](/try.png)
