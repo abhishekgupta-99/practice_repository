@@ -17,9 +17,10 @@
 ### To Dos / Future implementations
 ## References: 
 
-*Team 16*
-**Selecting PS**
-As said in the webinar:
->Brainstrorm!
->Work Smarter
+*Team 16* <br/>
+**Selecting PS**<br/>
+As Kanye West said:
+>We're living in the future
+>the present is our past.<br/>
+
 ![Team Logo](/try.png)
