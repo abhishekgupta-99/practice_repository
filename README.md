@@ -22,4 +22,4 @@
 As said in the webinar:
 >Brainstrorm!
 >Work Smarter
-
+![Team Logo](/try.png)
