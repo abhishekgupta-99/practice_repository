@@ -23,8 +23,3 @@ As said in the webinar:
 >Brainstrorm!
 >Work Smarter
 
-*Backend
-*Frontend
-  *React
-  *HTML
- 
