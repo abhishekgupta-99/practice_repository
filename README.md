@@ -27,5 +27,5 @@ As Kanye West said:
 [Link to our CFG Repo](https://github.com/CFGIndia20/team-16)
 :+1: :octocat:<br/>
 
-- [x] Team Meeting
--[ ] Deciding PS
+- [x] Team Meeting<br/>
+- [ ] Deciding PS
