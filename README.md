@@ -16,3 +16,9 @@
 
 ### To Dos / Future implementations
 ## References: 
+
+*Team 16*
+**Selecting PS**
+As said in the webinar:
+>Brainstrorm!
+>Work Smarter
