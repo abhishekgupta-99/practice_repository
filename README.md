@@ -28,7 +28,7 @@ As Kanye West said:
 :+1: :octocat:<br/>
 
 - [x] Team Meeting<br/>
-- [ ] Deciding PS
+- [ ] Deciding PS<br/>
 Name | College
 ---- | --------
 Neha |TSEC
