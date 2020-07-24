@@ -10,12 +10,14 @@
 
 ## Folder Structure
 
+## Tools Used 🛠️:
+
 #### Plugins/Packages used
 
 ### FAQs Technical
 
 ### To Dos / Future implementations
-## References: 
+## References:
 
 *Team 16* <br/>
 **Selecting PS**<br/>
@@ -27,7 +29,7 @@ As Kanye West said:
 [Link to our CFG Repo](https://github.com/CFGIndia20/team-16)
 :+1: :octocat:<br/>
 
-- [x] Team Meeting<br/>
+✔️ Team Meeting<br/>
 - [ ] Deciding PS<br/>
 
 | Name     | College |
