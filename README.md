@@ -29,7 +29,7 @@ As Kanye West said:
 
 - [x] Team Meeting<br/>
 - [ ] Deciding PS<br/>
-Name | College
----- | --------
-Neha |TSEC
-Abhishek|SPIT
+| Name     | College |
+|----------|---------|
+| Neha     | TSEC    |
+| Abhishek | SPIT    |
