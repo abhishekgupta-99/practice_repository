@@ -24,4 +24,4 @@ As Kanye West said:
 >the present is our past.<br/>
 
 ![Team Logo](/try.png)<br/>
-[GitHub](https://github.com/CFGIndia20/team-16)
+[Link to our CFG Repo](https://github.com/CFGIndia20/team-16)
