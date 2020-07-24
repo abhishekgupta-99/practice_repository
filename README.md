@@ -25,3 +25,4 @@ As Kanye West said:
 
 ![Team Logo](/try.png)<br/>
 [Link to our CFG Repo](https://github.com/CFGIndia20/team-16)
+:+1: :octocat:
