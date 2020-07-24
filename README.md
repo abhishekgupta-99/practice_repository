@@ -1,4 +1,4 @@
-# Practice_repository
+# Practice_repository 🔥
 
 ## Problem Satement
 
